@@ -43,7 +43,3 @@ nivel smallint CONSTRAINT pk_nivelJ PRIMARY KEY
 , salario_min decimal(10,2) CONSTRAINT notnulo NOT NULL
 , salario_max decimal(10,2) CONSTRAINT notnulo NOT NULL
 )
-
-
-
-
