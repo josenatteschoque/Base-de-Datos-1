@@ -5,4 +5,5 @@ SELECT emp.nombre, jef.nombre
 --Le pongo un alias ala tabla
 FROM empleados_ng AS emp, empleados_ng AS jef
 WHERE emp.jefe = 1
+AND emp.depto = 20
 AND	emp.jefe = jef.nro_emp
