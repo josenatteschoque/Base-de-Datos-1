@@ -13,6 +13,8 @@ values(30,'BIOLOGIA')
 INSERT INTO departamentos_tp21jose(nro_depto, nombre_depto)
 values(40,'JURIDICAS')
 
+INSERT INTO departamentos_tp21jose(nro_depto, nombre_depto)
+values(50,'COMPRAS')
 
 --Veo la tabla de departamentos
 SELECT *
