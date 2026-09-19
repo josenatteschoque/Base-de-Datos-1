@@ -34,6 +34,11 @@ VALUES(9, 'Carla', 'Nattes', 5555555555, 'F', 2, '2005-03-09', '2024-12-01', 200
 INSERT INTO empleados_tp21jose(nro_emp, nombre, apellido, dni, sexo, jefe, fecha_nac, fecha_alta, salario, premio, cant_hijos, depto, zona) 
 VALUES(10, 'Luis', 'Nattes', 6666666666, 'M', 3, '2000-07-09', '2026-09-18', 200000, 1, 2, 40, 'SUR')
 
+INSERT INTO empleados_tp21jose(nro_emp, nombre, apellido, dni, sexo, jefe, fecha_nac, fecha_alta, salario, premio, cant_hijos, depto, zona) 
+VALUES(11, 'Alexis', 'Mamani', 7777777777, 'M', 8, '2005-07-09', '2026-09-18', 200000, 1, 2, 50, 'NOR')
+
+INSERT INTO empleados_tp21jose(nro_emp, nombre, apellido, dni, sexo, jefe, fecha_nac, fecha_alta, salario, premio, cant_hijos, depto, zona) 
+VALUES(12, 'Sebastian', 'Pratesi', 8888888888, 'M', 6, '1999-07-09', '2026-09-18', 200000, 1, 2, 50, 'SUR')
 
 
 --Veo si pude cargar los empleados
