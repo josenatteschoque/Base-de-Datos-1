@@ -46,6 +46,9 @@ VALUES(13, 'Sandro', 'Claro', 999999999, 'M', 11, '2006-07-09', '2026-09-18', 20
 INSERT INTO empleados_tp21jose(nro_emp, nombre, apellido, dni, sexo, jefe, fecha_nac, fecha_alta, salario, premio, cant_hijos, depto, zona) 
 VALUES(14, 'Lucia', 'Rivero', 1010101010, 'F', 8, '2003-07-09', '2025-09-18', 200000, 50000, 2, 20, 'SUR')
 
+INSERT INTO empleados_tp21jose(nro_emp, nombre, apellido, dni, sexo, jefe, fecha_nac, fecha_alta, salario, premio, cant_hijos, depto, zona) 
+VALUES(15, 'Nicol', 'Encinas', 2020202020, 'F', 14, '2001-01-09', '2026-09-2', 180000, 20000, 2, 50, 'NOR')
+
 --Veo si pude cargar los empleados
 SELECT *
 FROM empleados_tp21jose
